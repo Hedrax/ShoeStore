@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="emailHint">Write your Email Address</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="instructions">The application is quite simple. Use the floating button with the (+) sign to add new shoe then after adding the details of the shoe you will be able to see your shoes listed on the main listing screen</string>
+    <string name="instructionsEnding">Press the button bellow \n to navigate to listing screen</string>
+    <string name="okey">Okey</string>
+    <string name="instructionTitle">Instructions</string>
+    <string name="navToInstructions">Click the button bellow\n To see Instructions</string>
+    <string name="welcomingText">welcome to shoe store where you can put your items to sale</string>
+    <string name="plus_sign">+</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="company">Company</string>
+    <string name="shoeName">Shoe Name</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+
+</resources>
