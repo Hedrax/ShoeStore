@@ -76,3 +76,9 @@ Open the starter project in Android Studio
     * Observe the shoes variable from the ViewModel
     * Use DataBindingUtil to inflate the shoe_list layout
     * Add a new layout item into the scrollview for each shoe.
+
+## Libraries
+* [Data-Binding](https://developer.android.com/topic/libraries/data-binding)
+* [Navigation Component](https://developer.android.com/guide/navigation)
+* [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+* [Material Component](https://developer.android.com/jetpack/compose/layouts/material)
